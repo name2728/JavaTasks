@@ -1,4 +1,5 @@
-package main.java;
+package src;
+
 
 public class Cat {
     private String name;
