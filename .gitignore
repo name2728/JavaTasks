@@ -9,8 +9,9 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+пше
 # Package Files #
+.idea/
 *.jar
 *.war
 *.nar
